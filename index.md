@@ -7,3 +7,4 @@
 #
 layout: default
 ---
+Test the home page content
